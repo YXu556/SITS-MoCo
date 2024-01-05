@@ -1,6 +1,6 @@
 # SITS-MoCo
 
-PyTorch implementation of  ["Self-supervised pre-training for large-scale crop mapping using Sentinel-2 time series"](10.1016/j.isprsjprs.2023.12.005)
+PyTorch implementation of  ["Self-supervised pre-training for large-scale crop mapping using Sentinel-2 time series"](http://dx.doi.org/10.1016/j.isprsjprs.2023.12.005)
 
 <img src="png/Figure_3_1.png" title="" alt="" data-align="center">
 
