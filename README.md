@@ -1,6 +1,6 @@
 # SITS-MoCo
 
-PyTorch implementation of  ["Self-supervised pre-training for large-scale crop mapping using Sentinel-2 time series"]()
+PyTorch implementation of  ["Self-supervised pre-training for large-scale crop mapping using Sentinel-2 time series"](10.1016/j.isprsjprs.2023.12.005)
 
 <img src="png/Figure_3_1.png" title="" alt="" data-align="center">
 
@@ -40,7 +40,17 @@ python main_tscls.py stnet --rc --pretrained checkpoints/pretrained/MoCoV2_TRSF_
 In case you find SITS-MoCo or the code useful, please consider citing our paper using the following BibTex entry:
 
 ```
-xxx
+@article{xu_self-supervised_2024,
+	title = {Self-supervised pre-training for large-scale crop mapping using Sentinel-2 time series},
+	volume = {207},
+	issn = {0924-2716},
+	doi = {10.1016/j.isprsjprs.2023.12.005},
+	pages = {312--325},
+	journaltitle = {{ISPRS} Journal of Photogrammetry and Remote Sensing},
+	shortjournal = {{ISPRS} Journal of Photogrammetry and Remote Sensing},
+	author = {Xu, Yijia and Ma, Yuchi and Zhang, Zhou},
+}
+
 ```
 
 ## Credits
