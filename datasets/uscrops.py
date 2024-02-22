@@ -48,18 +48,18 @@ class USCrops(Dataset):
         # index
         self.indexfile = root / str(year) / f'{mode}.csv'
         self.index = pd.read_csv(self.indexfile, index_col=None)
-        self.index = self.index.loc[self.index.sequencelength > 0].set_index("idx")
+        self.index = self.index.loc[self.index.sequencelength > 0]#.set_index("idx")
 
         # sample
         sample_str = ['train']
         if useall == False:
-            if mode in sample_str:
-                self.index = self.index.groupby('classid', as_index=False).apply(
-                        lambda x: x.sample(n=num // (self.nclasses + 1) * 2)  if x.shape[0] > num // (self.nclasses + 1) * 2
-                        else x.sample(n=x.shape[0]))
-                self.index = self.index.sample(n=num)
-            else:
-                self.index = self.index.sample(n=num)
+            # if mode in sample_str:
+            #     self.index = self.index.groupby('classid', as_index=False).apply(
+            #             lambda x: x.sample(n=num // (self.nclasses + 1) * 2)  if x.shape[0] > num // (self.nclasses + 1) * 2
+            #             else x.sample(n=x.shape[0]))
+            #     self.index = self.index.sample(n=num)
+            # else:
+            #     self.index = self.index.sample(n=num)
             self.cache = root / str(year) / 'npy' / f"{mode.capitalize()}_R{num}_Seed{seed}_Class{self.nclasses}.npy"
         else:
             self.cache = root / str(year) / 'npy' / f"{mode.capitalize()}_All.npy"

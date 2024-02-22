@@ -1,0 +1,301 @@
+id,code,path,sequencelength,classid,classname,region,mode
+11500243,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11500243.csv,37,1, Soybeans,Coahoma,eval
+26106587,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26106587.csv,76,0, Grass/Pasture,Garfield,eval
+3007862,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3007862.csv,59,0, Grass/Pasture,Adams,eval
+8605287,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8605287.csv,67,4, Spring Wheat,Adams,eval
+10200801,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10200801.csv,62,4, Spring Wheat,Adams,eval
+15703800,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15703800.csv,37,20,Other,Coahoma,eval
+44109526,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44109526.csv,54,2, Corn,Randolph,eval
+21306221,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21306221.csv,69,3, Winter Wheat,Garfield,eval
+25004350,59,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25004350.csv,69,20,Other,Garfield,eval
+16308521,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\16308521.csv,37,5, Cotton,Coahoma,eval
+6902436,6,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\6902436.csv,62,11, Sunflower,Adams,eval
+21302506,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21302506.csv,70,3, Winter Wheat,Garfield,eval
+10101493,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10101493.csv,58,4, Spring Wheat,Adams,eval
+27204708,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\27204708.csv,80,0, Grass/Pasture,Harvey,eval
+43900289,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43900289.csv,35,1, Soybeans,Randolph,eval
+35101549,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\35101549.csv,41,3, Winter Wheat,Haskell,eval
+31802453,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\31802453.csv,44,0, Grass/Pasture,Harvey,eval
+27200374,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\27200374.csv,77,1, Soybeans,Harvey,eval
+4706046,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\4706046.csv,55,0, Grass/Pasture,Adams,eval
+23900329,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23900329.csv,68,3, Winter Wheat,Garfield,eval
+41002416,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41002416.csv,46,8, Shrubland,Haskell,eval
+45702936,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\45702936.csv,54,2, Corn,Randolph,eval
+26201297,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26201297.csv,80,3, Winter Wheat,Garfield,eval
+43900325,141,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43900325.csv,43,12, Deciduous Forest,Randolph,eval
+16311826,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\16311826.csv,38,1, Soybeans,Coahoma,eval
+35900163,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\35900163.csv,76,8, Shrubland,Haskell,eval
+1003511,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\1003511.csv,62,4, Spring Wheat,Adams,eval
+15811030,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15811030.csv,41,5, Cotton,Coahoma,eval
+43907357,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43907357.csv,52,2, Corn,Randolph,eval
+21908671,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21908671.csv,69,4, Spring Wheat,Garfield,eval
+46201137,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\46201137.csv,59,1, Soybeans,Randolph,eval
+11509860,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11509860.csv,39,1, Soybeans,Coahoma,eval
+10208415,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10208415.csv,60,4, Spring Wheat,Adams,eval
+30800807,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30800807.csv,44,0, Grass/Pasture,Harvey,eval
+15709807,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15709807.csv,38,6, Woody Wetlands,Coahoma,eval
+23609796,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23609796.csv,77,3, Winter Wheat,Garfield,eval
+22804439,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22804439.csv,77,0, Grass/Pasture,Garfield,eval
+34304052,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\34304052.csv,46,5, Cotton,Haskell,eval
+10209140,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10209140.csv,63,4, Spring Wheat,Adams,eval
+3401909,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3401909.csv,59,2, Corn,Adams,eval
+10202594,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10202594.csv,62,2, Corn,Adams,eval
+11506072,3,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11506072.csv,37,15, Rice,Coahoma,eval
+25002729,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25002729.csv,70,0, Grass/Pasture,Garfield,eval
+41901795,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41901795.csv,83,3, Winter Wheat,Haskell,eval
+26310190,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26310190.csv,80,0, Grass/Pasture,Garfield,eval
+11404631,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11404631.csv,38,20,Other,Coahoma,eval
+2506886,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\2506886.csv,55,0, Grass/Pasture,Adams,eval
+8104820,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8104820.csv,55,8, Shrubland,Adams,eval
+8100359,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8100359.csv,54,4, Spring Wheat,Adams,eval
+10207470,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10207470.csv,63,4, Spring Wheat,Adams,eval
+21902876,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21902876.csv,70,3, Winter Wheat,Garfield,eval
+14907287,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14907287.csv,40,6, Woody Wetlands,Coahoma,eval
+15800847,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15800847.csv,38,20,Other,Coahoma,eval
+46207409,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\46207409.csv,51,2, Corn,Randolph,eval
+22100153,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22100153.csv,69,0, Grass/Pasture,Garfield,eval
+25008416,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25008416.csv,71,4, Spring Wheat,Garfield,eval
+19004630,142,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\19004630.csv,71,7, Evergreen Forest,Garfield,eval
+3402117,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3402117.csv,65,2, Corn,Adams,eval
+47400607,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47400607.csv,25,1, Soybeans,Randolph,eval
+20601894,142,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\20601894.csv,62,7, Evergreen Forest,Garfield,eval
+31802424,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\31802424.csv,44,0, Grass/Pasture,Harvey,eval
+26102682,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26102682.csv,78,9, Fallow/Idle Cropland,Garfield,eval
+8102514,6,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8102514.csv,54,11, Sunflower,Adams,eval
+14301963,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14301963.csv,36,5, Cotton,Coahoma,eval
+43700560,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43700560.csv,28,2, Corn,Randolph,eval
+16305627,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\16305627.csv,40,5, Cotton,Coahoma,eval
+34301067,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\34301067.csv,40,8, Shrubland,Haskell,eval
+19004731,142,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\19004731.csv,70,7, Evergreen Forest,Garfield,eval
+3502308,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3502308.csv,65,4, Spring Wheat,Adams,eval
+41900455,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41900455.csv,84,3, Winter Wheat,Haskell,eval
+30803472,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30803472.csv,46,2, Corn,Harvey,eval
+3010818,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3010818.csv,54,0, Grass/Pasture,Adams,eval
+30307532,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30307532.csv,83,3, Winter Wheat,Harvey,eval
+14914557,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14914557.csv,38,6, Woody Wetlands,Coahoma,eval
+3404246,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3404246.csv,64,2, Corn,Adams,eval
+23904292,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23904292.csv,68,3, Winter Wheat,Garfield,eval
+44109590,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44109590.csv,53,2, Corn,Randolph,eval
+27206318,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\27206318.csv,81,2, Corn,Harvey,eval
+8605311,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8605311.csv,60,4, Spring Wheat,Adams,eval
+10803677,6,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10803677.csv,59,11, Sunflower,Adams,eval
+43906833,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43906833.csv,51,2, Corn,Randolph,eval
+23604772,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23604772.csv,76,3, Winter Wheat,Garfield,eval
+22507447,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22507447.csv,77,0, Grass/Pasture,Garfield,eval
+15307296,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15307296.csv,37,2, Corn,Coahoma,eval
+2510323,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\2510323.csv,59,0, Grass/Pasture,Adams,eval
+14903178,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14903178.csv,39,6, Woody Wetlands,Coahoma,eval
+15303630,74,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15303630.csv,38,20,Other,Coahoma,eval
+23604649,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23604649.csv,75,3, Winter Wheat,Garfield,eval
+44101768,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44101768.csv,54,2, Corn,Randolph,eval
+38900020,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\38900020.csv,80,5, Cotton,Haskell,eval
+23601392,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23601392.csv,79,0, Grass/Pasture,Garfield,eval
+10210068,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10210068.csv,61,2, Corn,Adams,eval
+30305790,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30305790.csv,82,3, Winter Wheat,Harvey,eval
+47600886,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47600886.csv,53,1, Soybeans,Randolph,eval
+26208200,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26208200.csv,76,0, Grass/Pasture,Garfield,eval
+34602659,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\34602659.csv,81,20,Other,Haskell,eval
+41001542,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41001542.csv,47,3, Winter Wheat,Haskell,eval
+43905875,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43905875.csv,52,1, Soybeans,Randolph,eval
+18206706,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\18206706.csv,36,5, Cotton,Coahoma,eval
+23912565,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23912565.csv,71,3, Winter Wheat,Garfield,eval
+2505085,6,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\2505085.csv,58,11, Sunflower,Adams,eval
+11500206,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11500206.csv,36,1, Soybeans,Coahoma,eval
+4705076,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\4705076.csv,56,2, Corn,Adams,eval
+3008496,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3008496.csv,55,0, Grass/Pasture,Adams,eval
+44203349,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44203349.csv,52,2, Corn,Randolph,eval
+23903108,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23903108.csv,67,3, Winter Wheat,Garfield,eval
+21911003,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21911003.csv,69,3, Winter Wheat,Garfield,eval
+47101579,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47101579.csv,57,2, Corn,Randolph,eval
+19003864,142,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\19003864.csv,69,7, Evergreen Forest,Garfield,eval
+15101547,3,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15101547.csv,39,15, Rice,Coahoma,eval
+25005220,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25005220.csv,70,3, Winter Wheat,Garfield,eval
+22800822,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22800822.csv,70,4, Spring Wheat,Garfield,eval
+26204698,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26204698.csv,77,3, Winter Wheat,Garfield,eval
+23609105,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23609105.csv,79,9, Fallow/Idle Cropland,Garfield,eval
+2501963,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\2501963.csv,54,0, Grass/Pasture,Adams,eval
+47600062,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47600062.csv,51,1, Soybeans,Randolph,eval
+44204853,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44204853.csv,56,1, Soybeans,Randolph,eval
+1702322,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\1702322.csv,59,2, Corn,Adams,eval
+15804614,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15804614.csv,38,6, Woody Wetlands,Coahoma,eval
+36403050,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\36403050.csv,41,8, Shrubland,Haskell,eval
+15104216,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15104216.csv,40,5, Cotton,Coahoma,eval
+30308583,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30308583.csv,81,2, Corn,Harvey,eval
+25000226,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25000226.csv,69,0, Grass/Pasture,Garfield,eval
+43704276,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43704276.csv,28,1, Soybeans,Randolph,eval
+45707357,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\45707357.csv,56,1, Soybeans,Randolph,eval
+10405331,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10405331.csv,57,2, Corn,Adams,eval
+44108911,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44108911.csv,54,2, Corn,Randolph,eval
+18207827,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\18207827.csv,35,5, Cotton,Coahoma,eval
+21804685,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21804685.csv,73,3, Winter Wheat,Garfield,eval
+44210849,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44210849.csv,54,9, Fallow/Idle Cropland,Randolph,eval
+44211703,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44211703.csv,57,9, Fallow/Idle Cropland,Randolph,eval
+10208294,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10208294.csv,62,4, Spring Wheat,Adams,eval
+36400798,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\36400798.csv,43,8, Shrubland,Haskell,eval
+1003408,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\1003408.csv,59,0, Grass/Pasture,Adams,eval
+38900155,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\38900155.csv,80,5, Cotton,Haskell,eval
+902939,6,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\902939.csv,64,11, Sunflower,Adams,eval
+3503211,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3503211.csv,64,8, Shrubland,Adams,eval
+29801167,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\29801167.csv,46,1, Soybeans,Harvey,eval
+11410946,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11410946.csv,41,1, Soybeans,Coahoma,eval
+8500276,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8500276.csv,62,4, Spring Wheat,Adams,eval
+47605999,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47605999.csv,50,2, Corn,Randolph,eval
+21906587,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21906587.csv,70,9, Fallow/Idle Cropland,Garfield,eval
+34303661,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\34303661.csv,43,8, Shrubland,Haskell,eval
+26109567,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26109567.csv,78,9, Fallow/Idle Cropland,Garfield,eval
+25000883,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25000883.csv,71,3, Winter Wheat,Garfield,eval
+31803244,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\31803244.csv,43,0, Grass/Pasture,Harvey,eval
+22502406,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22502406.csv,76,9, Fallow/Idle Cropland,Garfield,eval
+15702031,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15702031.csv,40,20,Other,Coahoma,eval
+21911389,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21911389.csv,71,9, Fallow/Idle Cropland,Garfield,eval
+3400495,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3400495.csv,58,4, Spring Wheat,Adams,eval
+43905248,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43905248.csv,54,2, Corn,Randolph,eval
+3007306,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3007306.csv,54,0, Grass/Pasture,Adams,eval
+38904124,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\38904124.csv,80,5, Cotton,Haskell,eval
+14912874,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14912874.csv,38,6, Woody Wetlands,Coahoma,eval
+41000767,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41000767.csv,48,8, Shrubland,Haskell,eval
+15805890,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15805890.csv,40,1, Soybeans,Coahoma,eval
+15107030,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15107030.csv,39,5, Cotton,Coahoma,eval
+23912325,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23912325.csv,68,3, Winter Wheat,Garfield,eval
+26105127,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26105127.csv,78,0, Grass/Pasture,Garfield,eval
+45702238,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\45702238.csv,54,1, Soybeans,Randolph,eval
+15705198,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15705198.csv,36,20,Other,Coahoma,eval
+26303225,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26303225.csv,75,3, Winter Wheat,Garfield,eval
+22100765,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22100765.csv,69,0, Grass/Pasture,Garfield,eval
+15809285,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15809285.csv,40,1, Soybeans,Coahoma,eval
+22801538,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22801538.csv,68,3, Winter Wheat,Garfield,eval
+16305224,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\16305224.csv,39,5, Cotton,Coahoma,eval
+18203244,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\18203244.csv,33,5, Cotton,Coahoma,eval
+26304979,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26304979.csv,80,3, Winter Wheat,Garfield,eval
+30802161,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30802161.csv,46,0, Grass/Pasture,Harvey,eval
+44208787,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44208787.csv,55,2, Corn,Randolph,eval
+47100517,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47100517.csv,60,2, Corn,Randolph,eval
+18209381,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\18209381.csv,36,5, Cotton,Coahoma,eval
+14913263,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14913263.csv,37,6, Woody Wetlands,Coahoma,eval
+21910880,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21910880.csv,70,3, Winter Wheat,Garfield,eval
+21908715,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21908715.csv,66,3, Winter Wheat,Garfield,eval
+21910846,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21910846.csv,67,3, Winter Wheat,Garfield,eval
+47604729,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47604729.csv,51,2, Corn,Randolph,eval
+22102510,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22102510.csv,65,0, Grass/Pasture,Garfield,eval
+35100652,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\35100652.csv,41,3, Winter Wheat,Haskell,eval
+21907129,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21907129.csv,66,3, Winter Wheat,Garfield,eval
+19004610,142,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\19004610.csv,71,7, Evergreen Forest,Garfield,eval
+19000336,142,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\19000336.csv,69,7, Evergreen Forest,Garfield,eval
+41701355,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41701355.csv,42,5, Cotton,Haskell,eval
+26101388,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26101388.csv,79,0, Grass/Pasture,Garfield,eval
+3407080,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3407080.csv,62,2, Corn,Adams,eval
+46208933,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\46208933.csv,51,1, Soybeans,Randolph,eval
+2507294,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\2507294.csv,59,0, Grass/Pasture,Adams,eval
+21909503,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21909503.csv,67,3, Winter Wheat,Garfield,eval
+3012698,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3012698.csv,55,0, Grass/Pasture,Adams,eval
+23902975,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23902975.csv,69,3, Winter Wheat,Garfield,eval
+47101882,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47101882.csv,55,1, Soybeans,Randolph,eval
+21906837,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21906837.csv,71,9, Fallow/Idle Cropland,Garfield,eval
+30302680,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30302680.csv,79,2, Corn,Harvey,eval
+34700488,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\34700488.csv,85,8, Shrubland,Haskell,eval
+29603409,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\29603409.csv,46,3, Winter Wheat,Harvey,eval
+10207124,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10207124.csv,62,4, Spring Wheat,Adams,eval
+14911983,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14911983.csv,38,6, Woody Wetlands,Coahoma,eval
+8501433,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8501433.csv,63,4, Spring Wheat,Adams,eval
+39500710,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\39500710.csv,43,3, Winter Wheat,Haskell,eval
+2508467,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\2508467.csv,58,0, Grass/Pasture,Adams,eval
+22100267,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22100267.csv,68,0, Grass/Pasture,Garfield,eval
+25002730,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25002730.csv,70,0, Grass/Pasture,Garfield,eval
+45704266,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\45704266.csv,58,2, Corn,Randolph,eval
+2507038,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\2507038.csv,57,0, Grass/Pasture,Adams,eval
+26306861,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26306861.csv,75,9, Fallow/Idle Cropland,Garfield,eval
+26201703,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26201703.csv,76,9, Fallow/Idle Cropland,Garfield,eval
+16302066,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\16302066.csv,39,5, Cotton,Coahoma,eval
+14301574,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14301574.csv,38,5, Cotton,Coahoma,eval
+8102323,6,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8102323.csv,54,11, Sunflower,Adams,eval
+29602974,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\29602974.csv,46,2, Corn,Harvey,eval
+15306563,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15306563.csv,34,6, Woody Wetlands,Coahoma,eval
+3409001,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3409001.csv,61,2, Corn,Adams,eval
+25004070,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\25004070.csv,71,3, Winter Wheat,Garfield,eval
+44202567,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44202567.csv,51,2, Corn,Randolph,eval
+30805928,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30805928.csv,45,0, Grass/Pasture,Harvey,eval
+14914566,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14914566.csv,39,6, Woody Wetlands,Coahoma,eval
+10202971,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10202971.csv,64,4, Spring Wheat,Adams,eval
+47000149,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47000149.csv,55,1, Soybeans,Randolph,eval
+43906290,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43906290.csv,52,2, Corn,Randolph,eval
+23905527,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23905527.csv,68,4, Spring Wheat,Garfield,eval
+8603604,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8603604.csv,65,2, Corn,Adams,eval
+47008364,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47008364.csv,56,1, Soybeans,Randolph,eval
+10205355,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10205355.csv,62,4, Spring Wheat,Adams,eval
+11410675,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11410675.csv,41,1, Soybeans,Coahoma,eval
+26201690,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26201690.csv,76,3, Winter Wheat,Garfield,eval
+47004986,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47004986.csv,55,1, Soybeans,Randolph,eval
+38901187,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\38901187.csv,81,0, Grass/Pasture,Haskell,eval
+27202417,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\27202417.csv,79,2, Corn,Harvey,eval
+6504140,152,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\6504140.csv,58,8, Shrubland,Adams,eval
+3408697,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3408697.csv,61,4, Spring Wheat,Adams,eval
+23902210,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23902210.csv,70,3, Winter Wheat,Garfield,eval
+26206007,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26206007.csv,79,0, Grass/Pasture,Garfield,eval
+21304735,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21304735.csv,67,0, Grass/Pasture,Garfield,eval
+15105509,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15105509.csv,40,5, Cotton,Coahoma,eval
+44104052,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\44104052.csv,52,1, Soybeans,Randolph,eval
+29600166,122,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\29600166.csv,59,20,Other,Harvey,eval
+23603808,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23603808.csv,75,9, Fallow/Idle Cropland,Garfield,eval
+21303367,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21303367.csv,72,4, Spring Wheat,Garfield,eval
+15702130,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15702130.csv,35,20,Other,Coahoma,eval
+30304425,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30304425.csv,84,2, Corn,Harvey,eval
+21904911,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21904911.csv,72,3, Winter Wheat,Garfield,eval
+3400647,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3400647.csv,60,4, Spring Wheat,Adams,eval
+30801241,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30801241.csv,46,0, Grass/Pasture,Harvey,eval
+1700879,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\1700879.csv,62,4, Spring Wheat,Adams,eval
+16309568,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\16309568.csv,37,5, Cotton,Coahoma,eval
+31806774,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\31806774.csv,44,1, Soybeans,Harvey,eval
+30800912,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30800912.csv,43,0, Grass/Pasture,Harvey,eval
+902168,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\902168.csv,58,0, Grass/Pasture,Adams,eval
+4706706,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\4706706.csv,53,0, Grass/Pasture,Adams,eval
+43700492,141,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\43700492.csv,27,12, Deciduous Forest,Randolph,eval
+30804798,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\30804798.csv,47,0, Grass/Pasture,Harvey,eval
+14918467,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14918467.csv,37,6, Woody Wetlands,Coahoma,eval
+46306286,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\46306286.csv,51,1, Soybeans,Randolph,eval
+14915024,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14915024.csv,37,6, Woody Wetlands,Coahoma,eval
+47602505,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47602505.csv,52,1, Soybeans,Randolph,eval
+18207864,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\18207864.csv,37,5, Cotton,Coahoma,eval
+23905100,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23905100.csv,69,3, Winter Wheat,Garfield,eval
+14919496,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14919496.csv,36,6, Woody Wetlands,Coahoma,eval
+22504270,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\22504270.csv,74,0, Grass/Pasture,Garfield,eval
+41700350,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41700350.csv,42,3, Winter Wheat,Haskell,eval
+15802756,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15802756.csv,36,6, Woody Wetlands,Coahoma,eval
+11408721,111,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\11408721.csv,38,20,Other,Coahoma,eval
+46301262,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\46301262.csv,58,9, Fallow/Idle Cropland,Randolph,eval
+3005275,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\3005275.csv,56,0, Grass/Pasture,Adams,eval
+905206,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\905206.csv,59,0, Grass/Pasture,Adams,eval
+8504041,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8504041.csv,59,2, Corn,Adams,eval
+41904522,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\41904522.csv,85,3, Winter Wheat,Haskell,eval
+29603980,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\29603980.csv,56,2, Corn,Harvey,eval
+15805952,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15805952.csv,37,6, Woody Wetlands,Coahoma,eval
+26101585,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26101585.csv,78,0, Grass/Pasture,Garfield,eval
+15101012,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15101012.csv,39,1, Soybeans,Coahoma,eval
+14903049,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\14903049.csv,40,6, Woody Wetlands,Coahoma,eval
+23606810,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23606810.csv,76,3, Winter Wheat,Garfield,eval
+35102184,61,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\35102184.csv,44,9, Fallow/Idle Cropland,Haskell,eval
+31806374,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\31806374.csv,45,0, Grass/Pasture,Harvey,eval
+47604246,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47604246.csv,50,2, Corn,Randolph,eval
+21301322,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21301322.csv,72,3, Winter Wheat,Garfield,eval
+38300864,2,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\38300864.csv,40,5, Cotton,Haskell,eval
+21808733,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21808733.csv,70,4, Spring Wheat,Garfield,eval
+46204496,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\46204496.csv,52,1, Soybeans,Randolph,eval
+46207600,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\46207600.csv,52,1, Soybeans,Randolph,eval
+47105795,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47105795.csv,53,2, Corn,Randolph,eval
+47103412,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47103412.csv,54,2, Corn,Randolph,eval
+21807673,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21807673.csv,73,3, Winter Wheat,Garfield,eval
+26305286,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\26305286.csv,78,4, Spring Wheat,Garfield,eval
+10101691,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10101691.csv,61,4, Spring Wheat,Adams,eval
+29804062,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Harvey\29804062.csv,44,0, Grass/Pasture,Harvey,eval
+16311531,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\16311531.csv,36,1, Soybeans,Coahoma,eval
+37101897,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Haskell\37101897.csv,45,3, Winter Wheat,Haskell,eval
+10103453,23,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10103453.csv,60,4, Spring Wheat,Adams,eval
+23608414,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23608414.csv,75,3, Winter Wheat,Garfield,eval
+8604443,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8604443.csv,66,0, Grass/Pasture,Adams,eval
+4701912,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\4701912.csv,55,0, Grass/Pasture,Adams,eval
+10801437,31,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\10801437.csv,59,10, Canola,Adams,eval
+47104740,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\47104740.csv,56,2, Corn,Randolph,eval
+21301624,176,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\21301624.csv,68,0, Grass/Pasture,Garfield,eval
+15711199,190,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Coahoma\15711199.csv,40,6, Woody Wetlands,Coahoma,eval
+45704175,5,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Randolph\45704175.csv,56,1, Soybeans,Randolph,eval
+23609486,24,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Garfield\23609486.csv,73,3, Winter Wheat,Garfield,eval
+8506383,1,D:\DadaX\PhD\Research\0. CurrentWork\data\US\2019\Adams\8506383.csv,63,2, Corn,Adams,eval
