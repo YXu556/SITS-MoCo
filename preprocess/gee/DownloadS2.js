@@ -4,58 +4,75 @@
 var year_int = 2022;
 var year = year_int.toString();
 var field_name = 'Adams';
-var bound = Adams;
+var bound = bound;  // add your own area of interest
 
 var bandnames = ['QA60', 'aerosol', 'blue', 'green', 'red','red1','red2','red3','nir','red4','h2o', 'swir1', 'swir2'];
 var bandnames_ex = ['blue', 'green', 'red', 'red1', 'red2', 'red3', 'nir', 'red4', 'swir1', 'swir2']
 
-var rgbVis = {
-    min: 0,
-    max: 0.3000,
-    bands: ['B4', 'B3', 'B2'],
-};
-
-var num_dict_2019 = {
- Adams: 106,
- Haskell: 115,
- Randolph: 80
-};
-
-var num_dict_2020 = {
- Adams: 119,
- Haskell: 120,
- Randolph: 90
-};
-
-var num_dict_2021 = {
- Adams: 115,
- Haskell: 125,
- Randolph: 83
-};
-
-
 var num_dict_2022 = {
  Adams: 112,
- Haskell: 118,
- Randolph: 87
 };
 
 // ----------------------------------- //
 // ------------ Functions ------------ //
 // ----------------------------------- //
-var Extract = require('users/YXXX/Sentinel:ExtractFunc')
-var addImageDate = Extract.addImageDate;
-var dailyMosaics = Extract.dailyMosaics;
-// var maskS2clouds = Extract.maskS2clouds;
-var toa_2AtoInt = Extract.toa_2AtoInt;
-var zonalStats = Extract.zonalStats;
-var S2_maskCloud = Extract.S2_maskCloud;
+function dailyMosaics(imgs){
+  //Simplify date to exclude time of day
+  imgs = imgs.map(function(img){
+    var d = ee.Date(img.get('system:time_start'));
+    var day = d.get('day');
+    var m = d.get('month');
+    var y = d.get('year');
+    var simpleDate = ee.Date.fromYMD(y,m,day);
+    return img.set('simpleTime',simpleDate.millis());
+  });
+
+  //Find the unique days
+  var days = uniqueValues(imgs,'simpleTime');
+
+  imgs = days.map(function(d){
+    d = ee.Number.parse(d);
+    d = ee.Date(d);
+    var t = imgs.filterDate(d,d.advance(1,'day'));
+    var f = ee.Image(t.first());
+    t = t.mosaic();
+    t = t.set('system:time_start',d.millis());
+    t = t.copyProperties(f);
+    return t;
+    });
+    imgs = ee.ImageCollection.fromImages(imgs);
+
+    return imgs;
+}
+
+// Function to mask clouds using the Sentinel-2 QA band.
+function maskS2clouds(image) {
+  var qa = image.select('QA60').int16();
+
+  // Bits 10 and 11 are clouds and cirrus, respectively.
+  var cloudBitMask = Math.pow(2, 10);
+  var cirrusBitMask = Math.pow(2, 11);
+
+  // Both flags should be set to zero, indicating clear conditions.
+  var mask = qa.bitwiseAnd(cloudBitMask).eq(0).and(
+             qa.bitwiseAnd(cirrusBitMask).eq(0));
+
+  // Return the masked and scaled data.
+  return image.updateMask(mask);
+}
+
+//Function to find unique values of a field in a collection
+function uniqueValues(collection,field){
+    var values  =ee.Dictionary(collection.reduceColumns(ee.Reducer.frequencyHistogram(),[field]).get('histogram')).keys();
+
+    return values;
+  }
 
 // ----------------------------------- //
 // --------------- Main -------------- //
 // ----------------------------------- //
 var startDay = ee.Date.fromYMD(year_int, 1, 1)
-var endDay = ee.Date.fromYMD(year_int, 12, 31)
+var endDay = ee.Date.fromYMD(year_int+1, 1, 1)
 
 var s2s = ee.ImageCollection("COPERNICUS/S2_SR")
   .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 80))
@@ -86,15 +103,7 @@ s2s = s2s
 s2s = dailyMosaics(s2s);
 
 // mask cloud
-s2s = S2_maskCloud(s2s);
-
-// var s2 = s2s.filterDate('2022-03-20', '2022-05-31').first()
-// print(s2)
-// Map.centerObject(Randolph, 9);
-// var visParams = {bands: ['red', 'green', 'blue'], max: 0.3};
-// Map.addLayer(s2, visParams, 'true-color composite');
-// Map.addLayer(Randolph)
-
+s2s = s2s.map(maskS2clouds);
 
 // download image ---------------------------------
 var data = s2s.map(function(img){
