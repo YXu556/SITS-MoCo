@@ -13,8 +13,8 @@ DATAPATH = Path(r"data/US-toy")  # todo replace your datapath here
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Pre-Train a time series feature extractor.')
-    parser.add_argument('model', type=str, default="MoCo-STNet",
-                        help='select pretrain method (moco|sbert) - model architecture (default MoCo-Transformer).')
+    parser.add_argument('model', type=str, default="transformer",
+                        help='select pretrain method model architecture (default Transformer).')
     parser.add_argument('--use-doy', action='store_true',
                         help='whether to use doy pe with trsf')
     parser.add_argument('--rc', action='store_true',
